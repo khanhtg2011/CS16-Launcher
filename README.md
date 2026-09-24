@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/khanhtg2011/CS16-Launcher/main/assets/banner.png" alt="CS16 Launcher Banner" width="100%" onerror="this.style.display='none'"/>
 
   <p align="center">
     <strong>Trình khởi chạy Counter-Strike 1.6 hiện đại, tối ưu hóa hiệu năng và quản lý cấu hình tất cả-trong-một.</strong>
