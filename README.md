@@ -68,7 +68,7 @@ Dự án ra đời nhằm giải quyết các bất tiện phổ biến khi chơ
 ## 🖥 Ảnh chụp giao diện
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khanhtg2011/CS16-Launcher/main/assets/preview.png" alt="Giao diện CS16-Launcher" width="85%" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/khanhtg2011/CS16-Launcher/main/assets/launcher_screenshot.png" alt="Giao diện CS16-Launcher" width="85%" onerror="this.style.display='none'"/>
   <p><em>(Hình ảnh minh họa giao diện chính của CS16-Launcher)</em></p>
 </div>
 
