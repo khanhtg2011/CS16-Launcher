@@ -13,7 +13,7 @@
     <a href="https://github.com/khanhtg2011/CS16-Launcher/blob/main/LICENSE"><img src="https://img.shields.io/github/license/khanhtg2011/CS16-Launcher?style=for-the-badge&color=green" alt="License"></a>
     <a href="https://github.com/khanhtg2011/CS16-Launcher/stargazers"><img src="https://img.shields.io/github/stars/khanhtg2011/CS16-Launcher?style=for-the-badge&color=yellow" alt="Stars"></a>
     <a href="https://github.com/khanhtg2011/CS16-Launcher/issues"><img src="https://img.shields.io/github/issues/khanhtg2011/CS16-Launcher?style=for-the-badge&color=red" alt="Issues"></a>
-    <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Platform">
+    <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-239120?style=for-the-badge&logo=linux&logoColor=white" alt="Platform">
   </p>
 
   <p align="center">
